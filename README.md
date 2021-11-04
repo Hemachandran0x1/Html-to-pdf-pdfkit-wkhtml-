@@ -7,4 +7,6 @@ It is an python script which uses pdfkit module and wkhtmltodoc for conversion o
 
 * Install latest version of python at https://www.python.org/downloads/.
 * Install pdfkit by using 'pip install pdfkit' command on terminal.
-* To set up wkhtml 
+* Install wkhtml from https://wkhtmltopdf.org/downloads.html and follow required instructions according to your OS(https://docs.bitnami.com/installer/apps/odoo/configuration/install-wkhtmltopdf/).
+
+#
