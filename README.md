@@ -1,4 +1,4 @@
-# Html-to-pdf-pdfkit-wkhtml-
+# Html-to-pdf-pdfkit-wkhtml
 
 This repository has code for converting local html files and online html resources into pdf.
 It is an python script which uses pdfkit module and wkhtmltodoc for conversion of html files to pdf.
