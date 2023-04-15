@@ -21,3 +21,7 @@ To get a list of all options and switches use:
  (or)
      
      python main.py --help
+
+#Note
+
+To solve OSerror issues pls change the configuration variable in py file accordingly you can reference https://www.tutorialexample.com/fix-oserror-no-wkhtmltopdf-executable-found-in-win-10-for-pdfkit-beginner-python-pdfkit-tutorial/
